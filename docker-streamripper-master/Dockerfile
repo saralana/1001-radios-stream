@@ -1,5 +1,4 @@
 FROM debian:stretch
-MAINTAINER Christian Lück <christian@lueck.tv>
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends streamripper && \

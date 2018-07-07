@@ -1,5 +1,16 @@
 BASED ON CHRISTIAN LUCK'S CODE (clue's project: https://github.com/clue/docker-streamripper)
 
+STREAMRIPPER: http://streamripper.sourceforge.net/tutorialconsole.php
+
+ULTIMO QUE FUNCIONOU
+docker run -d -v $PWD/MyMusic:/home/streamripper clue/streamripper http://mp3lg3.scdn.arkena.com/10489/europe1.mp3 -z -m 30 --xs2 never -T -l 7000
+
+GRAVA 7000 SEGUNNDOS (-l 7000)
+ABRE UMA PASTA POR RADIO (-o)
+FAZ SCAN PARA PROCURAR PORTAS LIVRES (-z)
+
+
+
 # clue/streamripper
 
 [Streamripper](http://streamripper.sourceforge.net/) is an application that lets you record streaming mp3 to your hard drive. This is a [Docker](https://www.docker.com) image that eases setup.
