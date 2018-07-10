@@ -10,6 +10,13 @@ ABRE UMA PASTA POR RADIO (-o)
 FAZ SCAN PARA PROCURAR PORTAS LIVRES (-z)
 
 
+PARA PARAR DE RODAR:
+docker stop iddoconteiner
+
+PARA DESCOBRIR ID DOS CONTEINERS:
+docker ps 
+
+
 
 # clue/streamripper
 
