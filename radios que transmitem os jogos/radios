@@ -1,37 +1,117 @@
-Albania		RTSH (Radio Tirana)	https://www.rtsh.al/radio-tirana-live/	http://149.202.214.27:8888/radiotirana1?	OK (pero no todos los partidos)
-Angola	Portugues	Radio Cinco Angola	http://radios.sapo.ao/radio-5	http://radios.vpn.sapo.pt/AO/radio5.mp3	OK
-Argentina	Español (Argentina)	Blue 100.7 Buenos Aires	http://www.bluefm.com.ar/vivo/player-audio.html	http://mp3.metroaudio1.stream.avstreaming.net:7200/bluefmaudio1	OK
-Argentina	Español (Argentina)	Blog FM	https://tunein.com/radio/Blogfm---Argentina-s288168/	http://streaming.radioblogfm.net:8002/listen.pls	OK
-Argentina	Español (Argentina)	Radio manos Argentina	https://tunein.com/radio/Radio-Manos-Argentinas-s234000/	http://s2.netradiofm.com:9024/listen.pls?sid=1	OK
-Africa	Français	RFI Afrique	http://www.rfi.fr/contenu/ecouter-rfi-direct-afrique	http://live02.rfi.fr/rfiafrique-64.mp3	OK
-Belgica	Holandes (Belgica)	VTR	http://icecast.vrtcdn.be/radio1-high.mp3	http://icecast.vrtcdn.be/radio1-high.mp3	OK funciona tambien con archivos M3U. No hay todos los partidos.
-Brasil	Portugues (Brasil)	Radio Globo Natal	https://tunein.com/radio/Rdio-Globo-(Natal)-640-s100249/	http://streaming06.hstbr.net:8202/live	OK
-Brasil	Portugues (Brasil)	Bad Itajai	http://sdritajai.ddns.net:8082/ + seleccionar "band itajai"		OK
-Cameroon	Français	Radio Balafon	http://www.radiobalafon.net/live/	http://uk4-vn.mixstream.net:8142/;?type=http&nocache=1	OK, aunque no comentan exactamente todo el partido (creo)
-Columbia	Español (Columbia)	Columbia	http://www.columbia.co.cr/player/radio.html	https://streams.radio.co/s419eaa350/listen	OK. no comentan como "comentadores" pero hablan del partido en directo. ruido de fondo
-Congo RDC	Français	UB FM	http://www.radio.cd/#ub-fm-89-5	http://s2.voscast.com:11280/stream/1/	OK mais son très saturé (très mauvais)
-Francia	Français	RMC	https://tunein.com/radio/RMC-1031-s14896/	https://chai5she.cdn.dvmr.fr/rmcinfo	OK
-Ghana		Adom FM	http://radio.garden/live/tema/adomonline/	http://mmg.streamguys1.com/AdomFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f?t=1530912316	OK
-Ghana	English (Ghana)	Kess Ben FM	http://radio.garden/live/kumasi/kessbenfm/	http://ample-zeno-18.radiojar.com/yuvvf2f76k5tv?t=1530912357&rj-token=AAABZHGF5gANaicxb5ZBEKXKgR0Wo6FsGQ8UoAlp-EpALAHA0UMn5Q&rj-ttl=5	OK
-Ghana	English (Ghana)	Luv FM	http://radio.garden/live/kumasi/luv-fm/	http://mmg.streamguys1.com/LuvFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f?t=1530912451	OK
-Guinée	Français (Guinée)	Nostalgie Guinée	http://radio.garden/live/conakry/nostalgie-guinee-fm-98-2/	http://ample-zeno-20.radiojar.com/27y3a02mb?t=1530912495&rj-token=AAABZHGIBECI8a3uF-HqpcZey0Hw3J9opcoXr_b0JkdIiTyNW3ZVEQ&rj-ttl=5	OK
-Haïti	Creole	RTCS	https://tunein.com/radiotelevisioncaraibes/	http://ample-zeno-19.radiojar.com/s0the9bwb84tv?rj-ttl=4&rj-token=AAABZHGI0SleRhceCFWG6MVd0bWGJXeaP2m0wnX3Xp43QEz92erNsw	OK. se esucha bastante la compresion internet...
-Iceland		RUV	http://www.ruv.is/nolayout/popup/ras2	http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras2/_definst_/live/stream1.m3u8	OK
-Indonesia		RRI Pro 1	http://onlineradiobox.com/id/rripro1jakarta/?cs=id.rripro1jakarta&played=1&lang=en	http://pvstreaming.rri.co.id:9025/rrijakartapro1.mp3	OK
-Kosova		RTK	http://www.rtklive.com/sq/livestream/radio/radio_kosova.html 	http://82.114.72.2:8088/listen.pls	OK
-Kenya	???	Classic 105	http://radio.garden/live/nairobi/classic-105/	http://streams.radioafricagroup.co.ke:88/broadwave.mp3?t=1530912918	OK
-Kenya	???	Radio Citizen	http://www.radio.or.ke/#radio-citizen-106-7-fm		OK
-Maroc	Arabe	Radio Mars	http://www.radio.co.ma/mars/	http://radiomars.ice.infomaniak.ch/radiomars-128.mp3	OK
-Mali	Idioma de Mali	Jekafo Radio	http://jekafo.radio.es/	http://38.107.243.226:8010/listen.pls	OK
-Ouganda		Radio Sapientia	http://radiosapientia.com/listen/	http://live01.kezik.net/sapientia	OK (verificar que son los partidos del mundial pero creo que SI)
-Russia	Russe	Radio Russia	http://www.radiorus.ru/	http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps	OK
-Senegal		Radio Futurs Medias	https://tunein.com/radio/Radio-Futurs-Medias-940-s54600/	http://ample-zeno-18.radiojar.com/8b0eacw4vewtv?rj-ttl=5&rj-token=AAABZHGTmUxNZOW8HTRfXMr6EeH10SwZcdI5mAbecWlBmFY7c8bzNQ	OK
-Sudan	Arabe ?	Beladi FM	http://radio.garden/live/khartoum/beladi-fm-96-6/	http://streamingv2.shoutcast.com/BeladiFm966?lang=en-US%2cen%3bq%3d0.9%2ces%3bq%3d0.8%2cfr%3bq%3d0.7%2cpt%3bq%3d0.6	OK
-Suisse	Français	Couleur 3	https://www.rts.ch/play/radio/couleur-3-en-direct/audio/couleur-3-en-direct?id=3262363&station=8ceb28d9b3f1dd876d1df1780f908578cbefc3d7		OK comentan, pero no todos los partidos, haciendo bromas..
-Uruguay	Español		http://201.217.131.106:7900/    970mHz		OK
-Russia		RADIO MAYAK	http://radiomayak.ru/	http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps?t=1530913362	
-Istambul	turco	ntv spors radyo	http://ntvsporradyo.radio.net/	http://ntvsporsc.radyotvonline.com/listen.pls	thiago
-Italia	italiano	RAI IT	https://www.raiplayradio.it/	http://icestreaming.rai.it/1.mp3	thiago
-Jamaica	ingles	BLITZ RADIO 2000	www.lbcnewscorp.weebly.com	http://usa12.fastcast4u.com:5080/listen.pls?sid=1	thiago
-Mallorca	espanhol	?	?	http://icecast-streaming.nice264.com/mallorca?.mp3	thiago
-França	francês	Europe 1	http://www.europe1.fr/direct-video	http://mp3lg3.scdn.arkena.com/10489/europe1.mp3	thiago
+ESPN	https://tunein.com/radio/ESPN-Deportes-Radio-s55500/	http://edge.espn.cdn.abacast.net/espn-deportes-48?c_yob=1984&c_gender=m&source=TuneIn
+RFI Afrique	http://www.rfi.fr/contenu/ecouter-rfi-direct-afrique	http://live02.rfi.fr/rfiafrique-64.mp3
+RTSH (Radio Tirana)	https://www.rtsh.al/radio-tirana-live/	http://149.202.214.27:8888/radiotirana1?
+Info Radio RBB	https://www.inforadio.de/sport/	https://rbb-inforadio-live.sslcast.addradio.de/rbb/inforadio/live/mp3/128/stream.mp3
+Alger Chaine 3	http://www.radioalgerie.eu/#alger-ch-3-252-am	http://ch3.ice.infomaniak.ch/ch3-64.aac
+Radio Cinco Angola	http://radios.sapo.ao/radio-5	http://radios.vpn.sapo.pt/AO/radio5.mp3
+Radio Mitre	https://radiomitre.cienradios.com/player/mitre_am790/	https://buecrplb01.cienradios.com.ar/Mitre790.aac
+Radio La Red	http://www.radioarg.com/la-red/	https://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-lared/_definst_/live/stream1.m3u8
+Radio Continental	https://tunein.com/radio/Radio-Continental-AM-590-s25844/	http://20823.live.streamtheworld.com/CONTINENTALAAC.aac?csegid=2000&tdsdk=js
+Blue 100.7 Buenos Aires	http://www.bluefm.com.ar/vivo/player-audio.html	http://mp3.metroaudio1.stream.avstreaming.net:7200/bluefmaudio1
+Blog FM	https://tunein.com/radio/Blogfm---Argentina-s288168/	http://streaming.radioblogfm.net:8002/listen.pls
+Radio manos Argentina	https://tunein.com/radio/Radio-Manos-Argentinas-s234000/	http://s2.netradiofm.com:9024/listen.pls
+LV Diez	http://lvdiez.com.ar/site/	http://audio.bustream.com:8062/stream
+ArteMax	http://www.artemaxradio.com.ar/?i=1	http://server1.dainusradio.com:9976/listen.pls
+Antena 1	http://www.antena1sj.com.ar/	http://s2.netradiofm.com:9008/;
+Radio Tierra de Fuego	http://www.radiotierradelfuego.cl/	http://167.114.219.240:8088/stream
+SBS Australia (sbs-ice6.streamguys1.com | GEOBLOCK)	https://www.sbs.com.au/radio/	http://sbs-ice.streamguys1.com/sbs2
+ORF	http://oe3.orf.at/live/	http://oe3shoutcast.sf.apa.at/stream.mp3
+BTRC (1st Chanel of the Belorusian Radio)	https://www.tvr.by/eng/radio/	http://video.tvr.by:8000/radio1
+VTR Kwaliteit	http://icecast.vrtcdn.be/radio1-high.mp3	http://icecast.vrtcdn.be/radio1-high.mp3
+RTBF	http://www.rtbfradioplayer.be/radio/liveradio/vivacite	https://radios.rtbf.be/vivabxl-64.aac?userref=979d993740dba104d004495e1bef11
+Radio Capital	http://streema.com/radios/play/12763	http://str.radiocapital.fm:8000/listen.pls
+BHRT	http://www.liveonlineradio.net/bosnian/bh-radio-1.htm#	
+Radio Globo Natal	https://tunein.com/radio/Rdio-Globo-(Natal)-640-s100249/	http://streaming06.hstbr.net:8202/live
+Band Itajai	http://sdritajai.ddns.net:8082/ + seleccionar "band itajai"	
+Radio Sagres 730AM	https://tunein.com/radio/Rdio-Sagres-730-AM-s128688/	http://79.143.184.143:8000/listen.pls?sid=1
+Radio CBN Recife	https://tunein.com/radio/Rdio-CBN-(Recife)-1057-s165745/	http://sh2.upx.com.br:8012/listen.pls
+Radio Joven PAN FM Sao Paulo	https://tunein.com/radio/Rdio-Jovem-Pan-FM-(So-Paulo)-1009-s122944/	http://playerservices.streamtheworld.com/pls/JP_SP_FMAAC.pls
+Radio Joven PAN News Sao Paulo	https://tunein.com/radio/Rdio-Jovem-Pan-News-(So-Paulo)-620-s154922/	http://17523.live.streamtheworld.com:3690/JP_NEWSAAC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2
+CBN BH	http://cbn.globoradio.globo.com/	http://stream.sgr.globo.com/hls/aCBNBH/aCBNBH.m3u8
+BNR	http://player.bnr.bg/	
+FM Bolivia		http://www.boliviastreaming.com:7002/;
+Radio Monumental	http://www.radiomonumental.com.bo/	
+Radio Balafon	http://www.radiobalafon.net/live/	http://uk4-vn.mixstream.net:8142/;?type=http&nocache=1
+ADN Radio	http://envivo.adnradio.cl/	http://18553.live.streamtheworld.com/ADNAAC.aac?csegid=2000&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&streamtheworld_user=1&sbmid=4c16d81a-b221-45fa-dccd-f60c69f003fd
+Bio Bio	http://vivo.radiobiobio.cl/player/?radio=temuco	http://unlimited2-us.dps.live/biobiotemuco/aac/icecast.audio
+Radio Austral	http://www.emisora.cl/austral-valdivia/	http://stream5.eltelon.com/austral-am.aac
+Cooperativa (Radio Cooperativa)	https://www.cooperativa.cl/radioenvivo/	http://unlimited1-us.dps.live/cooperativafm/mp3/icecast.audio
+Beijing Sport Radio	https://tunein.com/radio/Beijing-Sports-Radio-1025-s9071/	
+Teletica	https://www.teletica.com/vivo?canal=teletica-radio	
+Columbia	http://www.columbia.co.cr/player/radio.html	https://streams.radio.co/s419eaa350/listen
+Okapi	https://www.radiookapi.net/page/ecouter-en-ligne	http://rs1.radiostreamer.com:8000/stream/1
+UB FM (s2.voscast.com)	http://www.radio.cd/#ub-fm-89-5	http://s2.voscast.com:11280/stream/1/
+Radio Rebelde	http://www.radiorebelde.cu/audios-bajo-demanda/radio_rebelde_en_vivo.htm	https://icecast.teveo.icrt.cu/kHKL7tWd
+HR2 Drugi Program	http://www.radios.hr/#hr2-drugi-program	http://20073.live.streamtheworld.com/PROGRAM2_SC
+CYBC	http://cybc.com.cy/live-radio/	
+DR	https://www.dr.dk/radio/	https://drradio3-lh.akamaihd.net/i/p3_9@143506/index_256_a-p.m3u8
+Radio Diblu	http://www.diblu.ec/	http://www.makrodigital.com:8137/radiodiblu?type=.flv
+Cadena COPE	https://tunein.com/radio/Euro-2016-en-Cadena-COPE-s271730/	
+Onda Cero	http://www.ondacero.es/	http://icecast-streaming.nice264.com/ondaceroback
+RAC 1	https://www.rac1.cat/directe	http://rac1.radiocat.net/;*.nsv
+ERR	https://vikerraadio.err.ee/	https://yogurt.err.ee/live/vikerraadiokorge/1531220385874.ts
+Europe 1	http://www.europe1.fr/direct-video	http://mp3lg3.scdn.arkena.com/10489/europe1.mp3
+RMC	https://tunein.com/radio/RMC-1031-s14896/	https://chai5she.cdn.dvmr.fr/rmcinfo
+Adom FM	http://radio.garden/live/tema/adomonline/	http://mmg.streamguys1.com/AdomFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f?t=1530912316
+Kess Ben FM	http://radio.garden/live/kumasi/kessbenfm/	http://ample-zeno-18.radiojar.com/yuvvf2f76k5tv?t=1530912357&rj-token=AAABZHGF5gANaicxb5ZBEKXKgR0Wo6FsGQ8UoAlp-EpALAHA0UMn5Q&rj-ttl=5
+Luv FM	http://radio.garden/live/kumasi/luv-fm/	http://mmg.streamguys1.com/LuvFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f?t=1530912451
+Nostalgie Guinée	http://radio.garden/live/conakry/nostalgie-guinee-fm-98-2/	http://ample-zeno-20.radiojar.com/27y3a02mb?t=1530912495&rj-token=AAABZHGIBECI8a3uF-HqpcZey0Hw3J9opcoXr_b0JkdIiTyNW3ZVEQ&rj-ttl=5
+Live 24	http://live24.gr/radio/sportfm	http://sportfm.live24.gr/sportfm7712
+Sport 24	http://www.sport24.gr/LiveMatches/mundial-live/kroatia-agglia-live.5253942.html	http://sport24radio.live24.gr/sport24radio
+Era Sport	http://onlineradiobox.com/gr/erasport/	http://radiostreaming.ert.gr/ert-erasport
+RTCS	https://tunein.com/radiotelevisioncaraibes/	http://ample-zeno-19.radiojar.com/s0the9bwb84tv?rj-ttl=4&rj-token=AAABZHGI0SleRhceCFWG6MVd0bWGJXeaP2m0wnX3Xp43QEz92erNsw
+RUV	http://www.ruv.is/nolayout/popup/ras2	http://sip-live.hds.adaptive.level3.net/hls-live/streams/ruv-ras2/events/_definst_/live/stream1Num321954.ts
+BBC	https://www.bbc.com/sport/live/football/43976787	https://as-dash-ww-live.bbcfmt.hs.llnwd.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/dash/bbc_radio_five_live-audio=96000-239271786.m4s
+RRI Pro 1	http://onlineradiobox.com/id/rripro1jakarta/?cs=id.rripro1jakarta&played=1&lang=en	http://pvstreaming.rri.co.id:9025/rrijakartapro1.mp3
+Radio IRIB	http://live.irib.ir/?idb=Radio	
+RTE	https://www.rte.ie/radio/utils/radioplayer/rteradioweb.html#!rii=b24_-2_9822_22-06-2018_	
+KAN Radio	http://onlineradiobox.com/il/kan/?cs=il.kan&played=1	
+Roma Radio	https://tunein.com/radio/Roma-Radio-s231817/	
+RAI 1 (Radio 1)	https://www.raiplayradio.it/	http://icestreaming.rai.it/1.mp3
+RAI 2 (Radio2)		http://icestreaming.rai.it/2.mp3
+RJR 94	http://www.rjr94fm.com/live.php	
+BLITZ RADIO 2000	www.lbcnewscorp.weebly.com	http://usa12.fastcast4u.com:5080/listen.pls?sid=1
+	http://www.joqr.co.jp/programs/daily-programsheet.php?date=20180715	
+Radio 1242	http://www.1242.com/	ip problem
+	http://www.joqr.co.jp/topics/2018fifa_oa.php	ip problem
+	http://www.joqr.co.jp/index.php	ip problem
+Classic 105	http://radio.garden/live/nairobi/classic-105/	http://streams.radioafricagroup.co.ke:88/broadwave.mp3?t=1530912918
+Radio Citizen	http://www.radio.or.ke/#radio-citizen-106-7-fm	http://35.154.154.231:1935/radiocitizen/radiocitizen/media_w156084468_2270.aac
+RTK	http://www.rtklive.com/sq/livestream/radio/radio_kosova.html 	http://82.114.72.2:8088/listen.pls
+TDM Macau	http://www.tdm.com.mo/c_broadcast/radio_live.php?ch=rch1&lc=FM98	
+Jekafo Radio (chaine2)	http://jekafo.radio.es/	http://38.107.243.226:8010/listen.pls
+nice ice cast server	?	http://icecast-streaming.nice264.com/mallorca?.mp3
+Med Radio	https://tunein.com/radio/Med-Radio-882-s158167/	http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3
+Radio Mars (This is my server name)	http://www.radio.co.ma/mars/	http://radiomars.ice.infomaniak.ch/radiomars-128.mp3
+W Radio	http://play.wradio.com.mx/	http://19253.live.streamtheworld.com/W_RADIOAAC.aac?csegid=2000&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&streamtheworld_user=1&sbmid=8d7aa822-d434-410c-c9a7-65675cf7c00a
+RG 690 AM	http://www.multimedios.com/radio/estaciones/monterrey/rg-deportiva-690-am.html	http://17513.live.streamtheworld.com/RG690_SC
+Radio Sapientia	http://radiosapientia.com/listen/	http://live01.kezik.net/sapientia
+Antena 1 Radio Euro	http://www.radioonline.com.pt/antena-1/	
+Polskie Radio	http://player.polskieradio.pl/-1	http://stream11.polskieradio.pl/pr1/pr1.sdp/media_w2048089060_436418.aac
+UJOT FM	https://www.mixcloud.com/discover/mundial-w-ujot-fm/	http://stream4.nadaje.com:13812/ujotfm128
+Radio Russia (-RRZonaM-mp3_192kbps)	http://www.radiorus.ru/	http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+RADIO MAYAK (-MayakFM-mp3_64kbps)	http://radiomayak.ru/ 	http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps?t=1530913362
+Radio Futurs Medias	https://tunein.com/radio/Radio-Futurs-Medias-940-s54600/	http://ample-zeno-16.radiojar.com/8b0eacw4vewtv
+RTS	http://www.rts.rs/page/radio/ci/live.html	
+RTV SLO (Streamripper_rips)	https://4d.rtvslo.si/zivo/val202	https://rtvslolive.akamaized.net/hls/live/655954/rtv_val202/ddqansmf/00000021/media_ao_39142.aac
+Beladi FM	http://radio.garden/live/khartoum/beladi-fm-96-6/	http://streamingv2.shoutcast.com/BeladiFm966?lang=en-US%2cen%3bq%3d0.9%2ces%3bq%3d0.8%2cfr%3bq%3d0.7%2cpt%3bq%3d0.6
+Couleur 3 (Streamripper_rips)	https://www.rts.ch/play/radio/couleur-3-en-direct/audio/couleur-3-en-direct?id=3262363&station=8ceb28d9b3f1dd876d1df1780f908578cbefc3d7	https://lsaplus.swisstxt.ch/audio/couleur3_96.stream/media_DVR_3486415.aac
+RTS Deux	https://www.rts.ch/play/tv/rts-deux-en-direct/video/rts-deux-en-direct?id=3608517&station=8ceb28d9b3f1dd876d1df1780f908578cbefc3d7	
+Sport Radio FM 96	http://www.lineballsod.com/doball/fm96/	http://110.164.48.215:8000/smmradio
+TRT Radio	http://radyo.trt.net.tr/Kanal/1/radyo-1.aspx	http://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/segment153125121_96_a-p.ts?sd=10&rebase=on
+Aspo Radyo	http://www.turkuvazradyolar.com/asporradyo	http://trkvz-radyo.ercdn.net/asporradyo/media-ucyixs75e_224579.aac
+Radyo Spor	http://www.radyospor.com/canli_yayin.html	http://37.247.100.118/stream/70/
+Lig Radyo	http://www.ligradyo.com.tr/CanliRadyo	http://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/media_w503061258_120800.aac
+ntv spors radyo	http://ntvsporradyo.radio.net/	http://ntvsporsc.radyotvonline.com/listen.pls
+	http://201.217.131.106:7900/    970mHz	
+Sport 890 (-SPORT)	http://www.radios.com.uy/sport-890/	
+		
+Radio Fe y Alegria (172.27.115.202)	http://radio.garden/live/caracas/1-ac-fe-y-alegria-1390-am-estereo/	http://aler.org:8000/caracasam.aac
+VOV Vietnam	http://vovworld.vn/en-US/RadioPlayer.vov?c=channel5	http://118.69.211.87:1935/vov5/vov5.stream_aac/media_w1876853464_43481.aac
+SBS (172.27.115.199) GEOBLOCK	https://tunein.com/radio/SBS-Radio-2-977-s100282/	http://sbs-ice.streamguys1.com/sbs2
+		http://ic2.101.ru:8000/v3_1?t=1531339163
+Cross Digital		http://servidor1.crossdigital.com.br:8110
+RADIO JORNAL PERNAMBUCO	https://tudoradio.com/player/radio/308	http://evpp.mm.uol.com.br/ne10/ne10-radiojornal-recife-audio-web.sdp/media_w358778821_48140.aac
+RADIO KUPANG INDONESIA	http://radio.garden/live/kupang/rri-pro1-kupang-fm-94-4/	http://pvstreaming.rri.co.id:9213/rrikupangpro1.mp3?t=1531340281
+RADIO GLOBO	http://www.radios.com.br/aovivo/radio-globo-953-fm/62009	http://78.46.36.212:1935/sc_86/sc_86.stream/media_w1348402442_17090.aac
+RADIO GUAIBA	http://www.radiosaovivo.net/#radio-guaiba-101-3-fm	http://cast4.audiostream.com.br:8007/app
